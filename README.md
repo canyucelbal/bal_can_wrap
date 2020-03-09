@@ -4,7 +4,7 @@
 You'll need git installed locally.
 
 CD to te location of your choice, and then git clone.
-[Git Clone](https://github.com/canyucelbal/bal_can_midterm)
+[Git Clone](https://github.com/canyucelbal/bal_can_wrap)
 
 ## Requirements
 You can use every browser, such as:
